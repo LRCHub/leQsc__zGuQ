@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Paradoxes",
+  "base_artist": "富田美憂",
+  "createdAt": "2026-03-16T09:10:09.071642Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Paradoxes",
+      "artist": "Everon",
+      "has_synced": false,
+      "path": "select/01_Paradoxes_Everon.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Paradoxes",
+      "artist": "富田美憂",
+      "has_synced": true,
+      "path": "select/02_Paradoxes_富田美憂.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Love and Paradoxes",
+      "artist": "Brymo",
+      "has_synced": true,
+      "path": "select/03_Love_and_Paradoxes_Brymo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Paradoxes",
+      "artist": "富田美憂",
+      "has_synced": true,
+      "path": "select/04_Paradoxes_富田美憂.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Union of Paradoxes",
+      "artist": "Farvaag",
+      "has_synced": true,
+      "path": "select/05_The_Union_of_Paradoxes_Farvaag.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Paradoxes of the Universe",
+      "artist": "Somnolent",
+      "has_synced": false,
+      "path": "select/06_Paradoxes_of_the_Universe_Somnolent.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Paradoxes",
+      "artist": "Everon",
+      "has_synced": false,
+      "path": "select/07_Paradoxes_Everon.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Paradoxes",
+      "artist": "富田美憂",
+      "has_synced": false,
+      "path": "select/pl_01_Paradoxes_富田美憂.txt"
+    }
+  ]
+}
